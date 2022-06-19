@@ -17,14 +17,8 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original-wordmark.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"> 
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://tenor.com/bRN56.gif">  
+     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
   </div>
-  
-  <div align="center">
-  <a rel="nofollow" href="https://paveloom.github.io/git/">
-    <img width="50%" src="./levitate.gif">
-  </a>
-</div>
   
   ##
  
