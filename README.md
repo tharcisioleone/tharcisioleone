@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original-wordmark.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"> 
-    <img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://github.com/tharcisioleone/tharcisioleone/blob/main/Gif.gif">
+    <img align="right" alt="gif" height="100" style="border-radius:50px;" src="https://github.com/tharcisioleone/tharcisioleone/blob/main/Gif.gif">
   </div>
   
   ##
