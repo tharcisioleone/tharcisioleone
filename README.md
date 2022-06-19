@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile 👋
+## Hello, my name is Tharcisio Leone, and you are warmly welcome to my GitHub profile 👋
 <div align="center">
   <a href="https://github.com/tharcisioleone">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharcisioleone&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
